@@ -38,5 +38,9 @@ public class Student {
      System.out.println("Hello");
      return;
 }
-
+void myTest();
+}
+int countAll() 
+{ 
+return 0; 
 }
